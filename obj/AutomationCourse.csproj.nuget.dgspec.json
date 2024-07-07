@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\AutomationCourse\\AutomationCourse.csproj": {}
+    "C:\\Automation\\AutomationCourse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\AutomationCourse\\AutomationCourse.csproj": {
+    "C:\\Automation\\AutomationCourse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\AutomationCourse\\AutomationCourse.csproj",
+        "projectUniqueName": "C:\\Automation\\AutomationCourse.csproj",
         "projectName": "AutomationCourse",
-        "projectPath": "C:\\Users\\Ivan\\AutomationCourse\\AutomationCourse.csproj",
-        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\AutomationCourse\\obj\\",
+        "projectPath": "C:\\Automation\\AutomationCourse.csproj",
+        "packagesPath": "C:\\Users\\daniilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Automation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daniilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://base3packages.olr.com/nuget/": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/NeoGamesLtd/_packaging/NeoGamesNugetPackages/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -38,11 +35,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
